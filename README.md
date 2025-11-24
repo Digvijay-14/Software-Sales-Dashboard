@@ -6,7 +6,7 @@ This dashboard provides business-ready insights using KPIs, maps, bar charts, an
 ---
 
 ## 🖼️ Dashboard Preview
-![Software Sales Dashboard](./SOFTWARE%20SALES%20DASHBOARD.png)
+![Software Sales Dashboard](image/SOFTWARE_SALES_DASHBOARD.png)
 
 ---
 
